@@ -30,7 +30,18 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/vendor/global/global.min.js",
+              "src/assets/vendor/bootstrap-select/dist/js/bootstrap-select.min.js",
+              "src/assets/js/custom.min.js",
+              "src/assets/vendor/raphael/raphael.min.js",
+              "src/assets/vendor/morris/morris.min.js",
+              "src/assets/vendor/peity/jquery.peity.min.js",
+              "src/assets/js/dashboard/dashboard-2.js",
+              "src/assets/vendor/svganimation/vivus.min.js",
+              "src/assets/vendor/svganimation/svg.animation.js",
+              "src/assets/js/styleSwitcher.js"
+            ]
           },
           "configurations": {
             "production": {

@@ -1,0 +1,34 @@
+package.json
+
+"src/assets/vendor/global/global.min.js",
+              "src/assets/vendor/bootstrap-select/dist/js/bootstrap-select.min.js",
+              "src/assets/js/custom.min.js",
+              "src/assets/vendor/raphael/raphael.min.js",
+              "src/assets/vendor/morris/morris.min.js",
+              "src/assets/vendor/peity/jquery.peity.min.js",
+              "src/assets/js/dashboard/dashboard-2.js",
+              "src/assets/vendor/svganimation/vivus.min.js",
+              "src/assets/vendor/svganimation/svg.animation.js",
+              "src/assets/js/styleSwitcher.js"
+
+app.compponent.html
+
+  <!-- Required vendors -->
+  <script src="../assets/vendor/global/global.min.js"></script>
+  <script src="../assets/vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+  <script src="../assets/js/custom.min.js"></script>
+
+  <!-- Chart Morris plugin files -->
+  <script src="../assets/vendor/raphael/raphael.min.js"></script>
+  <script src="../assets/vendor/morris/morris.min.js"></script>
+
+  <!-- Chart piety plugin files -->
+  <script src="../assets/vendor/peity/jquery.peity.min.js"></script>
+
+  <!-- Demo scripts -->
+  <script src="../assets/js/dashboard/dashboard-2.js"></script>
+
+  <!-- Svganimation scripts -->
+  <script src="../assets/vendor/svganimation/vivus.min.js"></script>
+  <script src="../assets/vendor/svganimation/svg.animation.js"></script>
+  <script src="../assets/js/styleSwitcher.js"></script>
